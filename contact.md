@@ -5,6 +5,7 @@ date: 2017-10-20T10:16:13+02:00
 author: charlesen
 layout: page
 guid: https://charlesen.fr/?page_id=356
+order : 6
 ---
 <p style="text-align: center;">
   Vous pouvez me contacter depuis différents réseaux sociaux :

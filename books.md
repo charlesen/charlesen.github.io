@@ -5,6 +5,7 @@ date: 2018-05-03T14:13:30+02:00
 author: charlesen
 layout: page
 guid: https://charlesen.fr/?page_id=459
+order : 5
 ---
 J&rsquo;aime l&rsquo;informatique, ça vous le savez déjà, mais j&rsquo;aime aussi l&rsquo;écriture. En mélangeant un peu les deux, ça peut donner des livres 😉
 
