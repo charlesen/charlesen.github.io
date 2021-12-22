@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A propos de moi
+title: Bio
 permalink: /about/
 ---
 
@@ -14,6 +14,3 @@ Vous trouverez plus d'information sur moi ici :
 
 - [CV](https://www.linkedin.com/in/charlesen/) /
 - [Projets](https://github.com/charlesen#my-projects-)
-
-
-[jekyll-organization]: https://github.com/jekyll
