@@ -1,0 +1,63 @@
+=== START test_database 2017-02-28 11:44:28 ===
+Connecté avec succès à la base de données Joomla
+Données Joomla trouvées :
+11 catégories
+125 articles
+6 liens
+
+[WARNING] Votre base de données Joomla contient des mots-clefs. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Joomla contient des commentaires JComments. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">version Premium</a> et <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/jcomments/" target="_blank">du module JComments</a> pour les importer.
+=== END test_database 2017-02-28 11:44:28 ===
+
+=== START save 2017-02-28 11:45:20 ===
+Paramètres enregistrés
+=== END save 2017-02-28 11:45:20 ===
+
+=== START import 2017-02-28 11:45:23 ===
+Connecté avec succès à la base de données Joomla
+Données Joomla trouvées :
+11 catégories
+125 articles
+6 liens
+
+[WARNING] Votre base de données Joomla contient des mots-clefs. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Joomla contient des commentaires JComments. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">version Premium</a> et <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/jcomments/" target="_blank">du module JComments</a> pour les importer.
+Import des catégories...
+11 catégories importées
+Import des articles...
+[ERROR] Can't copy https://charlesen.fr/media/monCV.pdf to /home/charlese/www/wordpress/wp-content/uploads/2009/08/media_monCV.pdf : Internal Server Error
+[ERROR] Can't copy https://charlesen.fr/media/Rapport_Projet_Android_RE21.pdf to /home/charlese/www/wordpress/wp-content/uploads/2010/04/media_Rapport_Projet_Android_RE21.pdf : Internal Server Error
+[ERROR] Can't copy http://download.microsoft.com/download/5/0/A/50A39509-D015-410F-A8F2-A5511E5A988D/Microsoft_Press_ebook_Programming_Windows_Phone_7_PDF.pdf to /home/charlese/www/wordpress/wp-content/uploads/2010/10/download.microsoft.com_download_5_0_A_50A39509-D015-410F-A8F2-A5511E5A988D_Microsoft_Press_ebook_Programming_Windows_Phone_7_PDF.pdf : Not Found
+[ERROR] Can't copy http://download.microsoft.com/download/5/0/A/50A39509-D015-410F-A8F2-A5511E5A988D/Microsoft_Press_ebook_Programming_Windows_Phone_7_Sample_Code.zip to /home/charlese/www/wordpress/wp-content/uploads/2010/10/download.microsoft.com_download_5_0_A_50A39509-D015-410F-A8F2-A5511E5A988D_Microsoft_Press_ebook_Programming_Windows_Phone_7_Sample_Code.zip : Not Found
+125 articles importés
+287 médias importés
+636 mots-clefs importés
+1 catégorie de liens importée
+Import des liens web...
+6 liens web importés
+N'oubliez pas de modifier les liens internes.
+IMPORT COMPLETE
+=== END import 2017-02-28 11:47:23 ===
+
+=== START import 2017-02-28 11:51:44 ===
+Connecté avec succès à la base de données Joomla
+Données Joomla trouvées :
+11 catégories
+125 articles
+6 liens
+
+[WARNING] Votre base de données Joomla contient des mots-clefs. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">version Premium</a> pour les importer.
+[WARNING] Votre base de données Joomla contient des commentaires JComments. Vous avez besoin de la <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/" target="_blank">version Premium</a> et <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/jcomments/" target="_blank">du module JComments</a> pour les importer.
+Import des catégories...
+0 catégorie importée
+Import des articles...
+0 article importé
+0 média importé
+0 mot-clef importé
+0 catégorie de liens importée
+Import des liens web...
+0 lien web importé
+N'oubliez pas de modifier les liens internes.
+IMPORT COMPLETE
+=== END import 2017-02-28 11:51:44 ===
+

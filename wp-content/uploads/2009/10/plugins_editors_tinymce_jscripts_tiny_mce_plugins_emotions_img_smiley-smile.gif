@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Page Not Found :(</title>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"27e49b4de54c222809d9ef8e077d047c",petok:"7bf141137f14723e06a5d1e1333ed39749d26270-1488282329-1800",zone:"charlesen.fr",rocket:"0",apps:{"vig_key":{"sid":"92460bb2c56f6e034fbb4b8bd1c921b1"},"ga_key":{"ua":"UA-7688142-2","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<style>::-moz-selection{background:#b3d4fc;text-shadow:none;}::selection{background:#b3d4fc;text-shadow:none;}html{padding:30px 10px;font-size:20px;line-height:1.4;color:#737373;background:#f0f0f0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}html,input{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;}body{max-width:500px;_width:500px;padding:30px 20px 50px;border:1px solid #b3b3b3;border-radius:4px;margin:0 auto;box-shadow:0 1px 10px #a7a7a7,inset 0 1px 0 #fff;background:#fcfcfc;}h1{margin:0 10px;font-size:50px;text-align:center;}h1 span{color:#bbb;}h3{margin:1.5em 0 0.5em;}p{margin:1em 0;}ul{padding:0 0 0 40px;margin:1em 0;}.container{max-width:380px;_width:380px;margin:0 auto;}#goog-fixurl ul{list-style:none;padding:0;margin:0;}#goog-fixurl form{margin:0;}#goog-wm-qt,#goog-wm-sb{border:1px solid #bbb;font-size:16px;line-height:normal;vertical-align:top;color:#444;border-radius:2px;}#goog-wm-qt{width:220px;height:20px;padding:5px;margin:5px 10px 0 0;box-shadow:inset 0 1px 1px #ccc;}#goog-wm-sb{display:inline-block;height:32px;padding:0 10px;margin:5px 0 0;white-space:nowrap;cursor:pointer;background-color:#f5f5f5;background-image:-webkit-linear-gradient(rgba(255,255,255,0),#f1f1f1);background-image:-moz-linear-gradient(rgba(255,255,255,0),#f1f1f1);background-image:-ms-linear-gradient(rgba(255,255,255,0),#f1f1f1);background-image:-o-linear-gradient(rgba(255,255,255,0),#f1f1f1);-webkit-appearance:none;-moz-appearance:none;appearance:none;*overflow:visible;*display:inline;*zoom:1;}#goog-wm-sb:hover,#goog-wm-sb:focus{border-color:#aaa;box-shadow:0 1px 1px rgba(0,0,0,0.1);background-color:#f8f8f8;}#goog-wm-qt:hover,#goog-wm-qt:focus{border-color:#105cb6;outline:0;color:#222;}input::-moz-focus-inner{padding:0;border:0;}</style>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7688142-2']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+<body>
+<div class="container">
+<h1>Page non trouvée <span>:(</span></h1>
+<p>Désolé, mais le contenu que vous souhaitez afficher semble ne pas exister</p>
+<p>Le problème est surement du à :</p>
+<ul>
+<li>une erreur dans l'adresse que vous avez tapée</li>
+<li>un lien mal renseigné de notre part</li>
+</ul>
+<script>
+                var GOOG_FIXURL_LANG = (navigator.language || '').slice(0,2), GOOG_FIXURL_SITE = location.origin;
+            </script>
+<script src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js"></script>
+</div>
+</body>
+</html>
