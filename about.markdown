@@ -7,9 +7,9 @@ order : 2
 
 Je m'appelle Charles EDOU NZE.
 
-Ingénieur de formation, je travaille actuellement chez O'clock en tant que Manager de formateurs.
+Ingénieur de formation, Ex Manager dans une startup Edtech, je vous aide à créer ou à maintenir des applications web et mobile, sur mesure et dans le respect de vos contraintes budgétaires et de planification. 
 
-O’clock est la première école qui forme en téléprésentiel aux métiers du développement web : des cours à distance, face à face avec son formateur. Notre credo : dématérialiser pour humaniser
+La satisfaction de mes clients est ma priorité.
 
 ### Mon CV
 
@@ -28,22 +28,23 @@ O’clock est la première école qui forme en téléprésentiel aux métiers du
   * **Systèmes de gestion de contenus**&nbsp;:GitBook, WordPress, Joomla!
 
 **EXPÉRIENCES PROFESSIONNELLES**
-
-  * **Avril 2020 – Aujourd’hui :&nbsp;**Formateur / Développeur chez&nbsp;<a href="http://oclock.io/" target="_blank" rel="noreferrer noopener">O’clock</a>.
-  * **Novembre 2015 – Avril 2020 :&nbsp;**Ingénieur Etudes et Développement informatique, référent développement mobile chez&nbsp;<a href="https://www.provexi.fr/" target="_blank" rel="noreferrer noopener">Provexi</a>
-  * **Avril 2018 &#8211; Février 2020 :**&nbsp;Enseignant vacataire à l’IUT de Troyes (<a href="http://mmi.iut-troyes.univ-reims.fr/bac-2/" target="_blank" rel="noreferrer noopener">Licence PRO MIM</a>) en développement d’applications mobiles
-  * **Janvier 2013 – Novembre 2015 :**&nbsp;Projet entrepreneurial
-  * **Juin 2012 – Décembre 2013 :&nbsp;**Développeur Web chez <a href="https://www.hicones.fr/" target="_blank" rel="noreferrer noopener">Hicones Ingénierie</a>
+  * **Novembre 2023 – Aujourd'hui :&nbsp;** Micro-entrepreneur** : Développement Web, Mobile, IA et Blogging
+  * **Octobre 2021 – Octobre 2023 :&nbsp;** Manager de formateurs chez <a href="http://oclock.io/" target="_blank" rel="noreferrer noopener">O’clock</a>.
+  * **Avril 2020 – Septembre 2021 :&nbsp;** Formateur / Développeur chez&nbsp;<a href="http://oclock.io/" target="_blank" rel="noreferrer noopener">O’clock</a>.
+  * **Novembre 2015 – Avril 2020 :&nbsp;** Ingénieur Etudes et Développement informatique, référent développement mobile chez&nbsp;<a href="https://www.provexi.fr/" target="_blank" rel="noreferrer noopener">Provexi</a>
+  * **Avril 2018 &#8211; Février 2020 :**&nbsp; Enseignant vacataire à l’IUT de Troyes (<a href="http://mmi.iut-troyes.univ-reims.fr/bac-2/" target="_blank" rel="noreferrer noopener">Licence PRO MIM</a>) en développement d’applications mobiles
+  * **Janvier 2013 – Novembre 2015 :**&nbsp; Projet entrepreneurial
+  * **Juin 2012 – Décembre 2013 :&nbsp;** Développeur Web chez <a href="https://www.hicones.fr/" target="_blank" rel="noreferrer noopener">Hicones Ingénierie</a>
 
 **LANGUES**
 
-  * Anglais &nbsp;**:**&nbsp;Bulats niveau B2&nbsp;_(Upper Intermediate)_
-  * Espagnol**&nbsp;:&nbsp;**notions de base
+  * **Anglais &nbsp;**: Technique et professionnel (Bulats niveau B2&nbsp;_(Upper Intermediate)_)
+  * **Espagnol &nbsp;** : notions de base
 
 **INFORMATIONS COMPLÉMENTAIRES**
 
   * Sport & loisirs : Basketball (Sixers de Philadelphie), Football (Aubameyang + Zidane), musique (gospel, instrumentale), lecture (essais, romans dystopiques).
-  * Je parle de tech, de finances et de développement personnel sur : <a href="https://www.pepite.club/" target="_blank" rel="noreferrer noopener">Pepite.club</a>, [De Ma Terre](https://dematerre.com/) & [Mobiletutos](https://www.mobiletuto.com/).
+  * Je parle de tech, de finances et de développement personnel sur : <a href="https://www.pepite.club/" target="_blank" rel="noreferrer noopener">Pepite.club</a>.
 
 
 - [Page linkedIn](https://www.linkedin.com/in/charlesen/) /
