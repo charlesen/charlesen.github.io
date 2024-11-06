@@ -28,7 +28,7 @@ La satisfaction de mes clients est ma priorité.
   * **Systèmes de gestion de contenus**&nbsp;:GitBook, WordPress, Joomla!
 
 **EXPÉRIENCES PROFESSIONNELLES**
-  * **Novembre 2023 – Aujourd'hui :&nbsp;** Micro-entrepreneur** : Développement Web, Mobile, IA et Blogging
+  * **Novembre 2023 – Aujourd'hui :&nbsp;** Micro-entrepreneur : Développement Web, Mobile, IA et Blogging
   * **Octobre 2021 – Octobre 2023 :&nbsp;** Manager de formateurs chez <a href="http://oclock.io/" target="_blank" rel="noreferrer noopener">O’clock</a>.
   * **Avril 2020 – Septembre 2021 :&nbsp;** Formateur / Développeur chez&nbsp;<a href="http://oclock.io/" target="_blank" rel="noreferrer noopener">O’clock</a>.
   * **Novembre 2015 – Avril 2020 :&nbsp;** Ingénieur Etudes et Développement informatique, référent développement mobile chez&nbsp;<a href="https://www.provexi.fr/" target="_blank" rel="noreferrer noopener">Provexi</a>
