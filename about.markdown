@@ -7,14 +7,14 @@ order : 2
 
 Je m'appelle Charles EDOU NZE.
 
-Ingénieur de formation, Ex Manager dans une startup Edtech, je vous aide à créer ou à maintenir des applications web et mobile, sur mesure et dans le respect de vos contraintes budgétaires et de planification. 
+Ingénieur de formation, Ex Manager au sein d'une startup Edtech, je vous aide à créer ou à maintenir des applications web et mobile, sur mesure et dans le respect de vos contraintes budgétaires et de planification. 
 
 La satisfaction de mes clients est ma priorité.
 
 ### Mon CV
 
 **FORMATIONS ET DIPLÔMES**
-
+  * **2024-2024 :**&nbsp;Developpeur Intelligence Artificielle (Certification professionnel délivré par Alyra)
   * **2008-2012 :**&nbsp;Diplôme d’ingénieur [UTT (Université de technologie de Troyes)](https://www.utt.fr/formations/diplome-d-ingenieur/reseaux-et-telecommunications) en Systèmes d’information et Télécommunication, spécialité Technologies mobiles et Systèmes embarqués
   * **2006-2008 :**&nbsp;DUT Réseaux et Télécommunications, [IUT Nancy-Brabois](https://iutnb.univ-lorraine.fr/fr/page/93/DUT-Reseaux-et-Telecommunications.html)
 
