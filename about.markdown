@@ -23,8 +23,8 @@ La satisfaction de mes clients est ma priorité.
   * **Langages et Technologies :**&nbsp;Python (dont Flask et Django), Javascript, TypeScript, PHP/MySQL, HTML 5, (x)HTML/CSS, Java, Objective-C, Framework Ionic, NodeJS, Angular
   * **Systèmes :**&nbsp;Linux (dont Ubuntu), Windows, Android, iOS, Apache, NGinx.
   * **Matériels et réseaux :**&nbsp;notions d’installation, configuration et maintenance d’équipements d’interconnexion de réseaux
-  * **Logiciels et EDI :**&nbsp;Bureautique (Google Docs, Libre Office, Microsoft Office) Atom, Android Studio
-  * **Utilitaires**&nbsp;: Git, SVN, Filezilla, Putty, WinSCP
+  * **Logiciels et EDI :**&nbsp;Bureautique (Google Docs, Libre Office, Microsoft Office) , VsCode, Android Studio
+  * **Utilitaires**&nbsp;: Git, Notion
   * **Systèmes de gestion de contenus**&nbsp;:GitBook, WordPress, Joomla!
 
 **EXPÉRIENCES PROFESSIONNELLES**
